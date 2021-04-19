@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sortizy demo</string>
+
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="borrowed">Borrowed</string>
+    <string name="setting">Setting</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="borrow_book">Borrow Book</string>
+    <string name="most_searched">Most Searched</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="new_arrival">New Arrival</string>
+    <string name="remove_from_fav">Remove from favourites</string>
+    <string name="no_favourites_found">No favourites found!</string>
+    <string name="login_sign_up">Login / Sign up</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="no_borrow_found">You have not borrowed any book!</string>
+    <string name="return_book">Return Book</string>
+    <string name="logout">Logout</string>
+
+    <string name="enter_username_email">Enter username/email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="not_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="appointment">Appointment</string>
+    <string name="today_appt">Today Appointment</string>
+    <string name="upcoming_appt">Upcoming Appointment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone">Phone</string>
+    <string name="navigate">Navigate</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="navigate_customer">Navigate to customer location</string>
+    <string name="not_implemented">Not Implemented!</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="today_s">Today\'s</string>
+    <string name="logout_desc">Do you want to logout?</string>
+</resources>
